@@ -30,7 +30,7 @@ It can recognize voice commands, respond verbally, and perform real-time actions
 
 1. Download or clone this repository:
    ```bash
-   git clone https://github.com/yourusername/riva-virtual-assistant.git
+   git clone https://github.com/Muskan156/Virtual_Assistant.git
 2. Open index.html in your browser.
 3. Click the microphone button and start talking to Riva!
 
